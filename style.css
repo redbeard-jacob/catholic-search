@@ -1,6 +1,7 @@
 *{
  margin:0;
  padding:0;
+ font-family:Arial;
 
 }
 body.tool{
@@ -79,4 +80,11 @@ p.tool{
 a.tool{
 	font-size:20px;
 	
+}
+div.search_results{
+	width:60%;
+	text-align:left;
+	margin-top: 25px ;
+	margin-left: auto ;
+	margin-right: auto ;
 }
